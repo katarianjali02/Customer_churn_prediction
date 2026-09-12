@@ -128,7 +128,7 @@ jupyter notebook notebooks/EDA_and_Modeling.ipynb
   target (~26% churn rate)
 - Persisting a full inference pipeline (model + encoders + scaler + feature
   order) so predictions on new, unseen data are consistent with training
-- Building a lightweight UI on top of a trained model with Streamlit
+
 
 ## 📌 Possible Next Steps
 
